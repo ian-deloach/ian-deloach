@@ -4,7 +4,7 @@
   
 ## 📝 About Me
 - 🌩️ I am currently learning more about using React.
-- 🏆 2024 Goal: Secure an intership and apply myself to open source projects.
+- 🏆 2025 Goal: Secure an intership and apply myself to open source projects.
 - ☕ My first programming language was Java! It's still my favorite to this day.
 - ✏️ During my free time, I like to draw and play Magic: The Gathering with my friends.
 
